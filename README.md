@@ -2,7 +2,7 @@
 - 👀 I’m interested in Unity Game Development
 - 🌱 I’m currently learning Unity Engine
 - 💞️ I’m looking to collaborate on Game Development Project
-- 📫 U can contact me via email @rakaaufar18@gmail.com
+- 📫 U can contact me via email rakaaufar18@gmail.com
 
 <!---
 rakaaufardev/rakaaufardev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
