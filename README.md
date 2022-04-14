@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Raka Aufar
+- 👋 Hi, I’m Raka Aufar Luthfan
 - 👀 I’m interested in Unity Game Development
-- 🌱 I’m currently learning Unity Engine
+- 🌱 I’m currently learning Unity3D Engine
 - 💞️ I’m looking to collaborate on Game Development Project
 - 📫 U can contact me via email rakaaufar18@gmail.com
 
